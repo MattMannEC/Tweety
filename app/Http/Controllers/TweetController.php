@@ -8,6 +8,7 @@ class TweetController extends Controller
 {
     public function store()
     {
+        // If validate passes, it returns an array
         $attributes = request()->validate([
             'body' => 'required|max:255'
         ]);
