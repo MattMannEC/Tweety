@@ -1,26 +1,34 @@
 <ul>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Home</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Explore</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Notifications</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Messages</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Bookmarks</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Lists</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">Profile</a>
-    </il>
-    <il>
-        <a href="" class="font-bold text-lg mb-4 block">More</a>
-    </il>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="/"
+        >Home</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="/explore"
+        >Explore</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="#"
+        >Notifications</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="#"
+        >Messages</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="#"
+        >Bookmarks</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="#"
+        >Lists</a></li>
+    <li><a
+            class="font-bold text-lg mb-4 block"
+            href="#"
+        >Profile</a></li>
+    <li><a
+            class="font-bold text-lg block"
+            href="#"
+        >More</a></li>
 </ul>
