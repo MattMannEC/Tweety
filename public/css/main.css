@@ -22241,6 +22241,10 @@ video {
           animation: bounce 1s infinite;
 }
 
+.tweety-logo {
+  width: 50px;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

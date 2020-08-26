@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.tweety-logo {
+    width: 100px;
+}
