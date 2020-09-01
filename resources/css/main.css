@@ -3,3 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+/* Work-around to overwride tailwind.config.js 
+Unresolvable npr vulnerabilities */
+.rounded-lg {
+    border-radius: 1.25rem;
+}
